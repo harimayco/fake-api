@@ -1,7 +1,7 @@
 {
   "login": 
    {
-      "status": true,
+      "status": "success",
       "title": "Anda telah berhasil login"
     }
 }
